@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FragmentsPart2</string>
+    <string-array name="AttractionsTitles">
+        <item>Cloud Gate</item>
+        <item>Millenium Park</item>
+        <item>Chicago Union Station</item>
+        <item>Willis Tower</item>
+        <item>Navy Pier</item>
+        <item>Art Institute of Chicago</item>
+        <item>Wrigley Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Field Museum</item>
+        <item>Adler Planetarium</item>
+    </string-array>
+    <string-array name="AttractionsUrls">
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-artarchitecture.html</item>
+        <item>http://www.chicagounionstation.com/</item>
+        <item>http://www.willistower.com/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.tripadvisor.com/Attraction_Review-g35805-d103239-Reviews-The_Art_Institute_of_Chicago-Chicago_Illinois.html</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+        <item>https://www.tripadvisor.com/Attraction_Review-g35805-d110153-Reviews-Lincoln_Park_Zoo-Chicago_Illinois.html</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.adlerplanetarium.org/</item>
+    </string-array>
+    <string-array name="RestaurantsTitles">
+        <item>Brickton</item>
+        <item>Chicago Fire Oven Restaurant</item>
+        <item>Smoque BBQ</item>
+        <item>Zia's Trattoria</item>
+        <item>Parachute</item>
+        <item>Lula Cafe</item>
+    </string-array>
+    <string-array name="RestaurantsUrls">
+        <item>http://www.marriott.com/hotel-restaurants/chiap-chicago-marriott-ohare/brickton-grill/80602/home-page.mi</item>
+        <item>http://www.chicagofireoven.com/</item>
+        <item>http://www.smoquebbq.com/</item>
+        <item>http://ziaschicago.com/</item>
+        <item>http://www.parachuterestaurant.com/</item>
+        <item>http://lulacafe.com/</item>
+    </string-array>
+</resources>
